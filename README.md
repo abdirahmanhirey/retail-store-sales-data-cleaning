@@ -41,3 +41,5 @@ Key Skills Demonstrated
 • Excel data cleaning
 • Documentation
 • Attention to detail
+## project files
+- [Dowload the Excel Data Cleaning project](retail_store_sales_cleaning_project.xlsx)
