@@ -1,17 +1,17 @@
-Retail Store Sales — Data Cleaning Project
+# Retail Store Sales — Data Cleaning Project
 
-Project Overview
+## Project Overview
 
 This project focuses on cleaning a retail store sales dataset using Microsoft Excel.
 
-Tools Used
+## Tools Used
 
 • Microsoft Excel
 • Filters
 • Duplicate checking
 • Data cleaning log
 
-Cleaning Tasks
+## Cleaning Tasks
 
 • Inspected the dataset for missing values.
 • Checked for duplicate records.
@@ -20,21 +20,21 @@ Cleaning Tasks
 • Left values unchanged when the correct information could not be verified.
 • Documented data-quality issues and cleaning decisions in a cleaning log.
 
-Duplicate Check
+## Duplicate Check
 
 Checked the dataset for duplicate records. Excel reported that no duplicates were found.
 
-Handling Missing Values
+## Handling Missing Values
 
 Some values in Quantity, Total Spent and Discount Applied were missing. These values were left blank when the correct information could not be verified, rather than filling them with guesses.
 
-Project Deliverables
+## Project Deliverables
 
 • Original dataset
 • Cleaned dataset
 • Data cleaning log
 
-Key Skills Demonstrated
+## Key Skills Demonstrated
 
 • Data quality checking
 • Missing-value identification
